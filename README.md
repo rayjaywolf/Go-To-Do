@@ -1,5 +1,3 @@
-Sure! Based on the provided context, here is a draft for your `README.md` file:
-
 ````markdown
 # Go-To-Do
 
