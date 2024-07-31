@@ -117,12 +117,3 @@ If you are developing a production application, we recommend updating the config
     },
   };
   ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```
-
-Feel free to customize this `README.md` file further based on your project's specific needs and additional details.
-```
